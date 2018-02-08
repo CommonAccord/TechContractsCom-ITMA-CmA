@@ -1,2 +1,2 @@
-# TechContractsCom-ITMA-CmA
-Contracts about Information Technology, from David Tollen and Tech Contracts Academy
+# TechContracts-ITMA-CmA
+Information Technology Master Agreement - from TechContracts.com - Use with a Lawyer - Not Legal Advice
